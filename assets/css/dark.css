@@ -11,6 +11,7 @@ body {
 .navigation .navigation-title,
 .navigation .title {
   color: rgb(185, 192, 198);
+  background-color: #456dad;
 }
 
 a {
